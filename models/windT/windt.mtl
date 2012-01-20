@@ -1,0 +1,57 @@
+newmtl Nacelle_tower_rotor_hub:CorrogateShiny
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.12 0.12 0.12
+Tf 1.00 1.00 1.00
+map_Kd Nacelle_tower_rotor_hub0.png
+Ni 1.00
+Ks 0.75 0.75 0.75
+Ns 8.00
+newmtl Nacelle_tower_rotor_hub:Glass_Sky_Reflection
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.12 0.12 0.12
+Tf 0.52 0.52 0.52
+map_Kd Nacelle_tower_rotor_hub1.png
+Ni 1.00
+Ks 0.75 0.75 0.75
+Ns 8.00
+newmtl Nacelle_tower_rotor_hub:MediumSeaGreen
+illum 4
+Kd 0.24 0.70 0.44
+Ka 0.12 0.12 0.12
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 8.00
+newmtl Nacelle_tower_rotor_hub:SlateGray
+illum 4
+Kd 0.44 0.50 0.56
+Ka 0.12 0.12 0.12
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 8.00
+newmtl Nacelle_tower_rotor_hub:White
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.12 0.12 0.12
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 8.00
+newmtl Nacelle_tower_rotor_hub:_White_1
+illum 4
+Kd 0.16 0.90 0.77
+Ka 0.12 0.12 0.12
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 8.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2513.jpg
+Ni 1.00
