@@ -1,8 +1,11 @@
 #pragma once
 
+
+#include <ar.h>
+#include "ARToolKitPlus/ar.h"
 #include "ofMain.h"
 #include "ofxMatrix4x4.h"
-#include <ar.h>
+#include "ARToolKitPlus/ARToolKitPlus.h"
 
 // Scale value for the border
 // Based on the type of marker
