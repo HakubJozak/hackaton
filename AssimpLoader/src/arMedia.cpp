@@ -2,11 +2,11 @@
 
 arMedia::arMedia(int set_markerId, string set_filepath, string set_title){
 	markerId = set_markerId;
-	
+
 	title = set_title;
 	filepath = set_filepath;
 	objectModel.loadModel(filepath, 1);
-	
+
 	scaleX = 1.0; scaleY = 1.0; scaleZ = 1.0;
 	positionX = 0.0; positionY = 0.0; positionZ = 0.0;
 	rotationX = 0.0; rotationY = 0.0; rotationZ = 0.0;

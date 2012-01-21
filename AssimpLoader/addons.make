@@ -1,0 +1,4 @@
+ofx3DModelLoader
+ofxARToolKitPlus
+ofxVectorMath
+ofxOpenCv
